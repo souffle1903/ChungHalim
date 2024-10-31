@@ -1,9 +1,12 @@
 ### 🐱‍🏍✨ Welcome ✨🐱‍🏍
 
- <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/souffle1903"/>
- </a>
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/souffle1903"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **souffle1903/souffle1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
